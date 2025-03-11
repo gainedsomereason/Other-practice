@@ -1,0 +1,2 @@
+1：maven的settings.xml
+2：研发环境的settings.xml
