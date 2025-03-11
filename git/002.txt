@@ -1,0 +1,6 @@
+# 进入克隆的仓库目录
+cd be-platform-cloud
+# 查看远程仓库的所有分支
+git branch -r
+# 假设远程仓库有一个名为 'main' 的分支，将其检出
+git checkout -b main origin/main
