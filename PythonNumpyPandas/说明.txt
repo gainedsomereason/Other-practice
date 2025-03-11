@@ -1,0 +1,12 @@
+numpy和pandas
+001：numpy属性
+002：numpy创建array
+003：numpy基础运算
+004：numpy中array的索引、合并、分割
+005: copy，deep copy
+006：pandas基本介绍
+007：pandas选择数据、设置值、处理丢失数据
+008：pandas读文件、存文件
+009：pandas合并concat
+010：pandas合并merge
+011：pandas plot画图
